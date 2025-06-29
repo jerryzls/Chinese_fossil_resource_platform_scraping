@@ -1,5 +1,6 @@
 # 2025.6.29
 # 爬取国家岩矿化石标本资源共享平台的图片，以资源名称命名图片
+# 当前代码爬取的是黄半吉地区的化石资源名字及图片
 # 需要修改的参数：url，img_folder
 
 from selenium.webdriver.common.by import By
